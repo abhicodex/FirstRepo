@@ -1,5 +1,5 @@
 class hlogit {
     public static void main(String[] args) {
-        System.out.println("HELLO GITS");
+        System.out.println("HELLO TECHIES");
     }
 }
